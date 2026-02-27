@@ -9,7 +9,6 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/skills/offered")
-@CrossOrigin(origins = "http://localhost:3000")
 public class SkillOfferedController {
 
     @Autowired

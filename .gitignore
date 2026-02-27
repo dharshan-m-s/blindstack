@@ -1,1 +1,30 @@
 node_modules/
+.vscod/
+.next/
+*.class
+
+# Java build output
+/target/
+
+# IDE and editor files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# npm cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# others
+/dist/
+/build/

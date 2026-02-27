@@ -9,7 +9,6 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/match")
-@CrossOrigin(origins = "http://localhost:3000")
 public class MatchController {
 
     @Autowired

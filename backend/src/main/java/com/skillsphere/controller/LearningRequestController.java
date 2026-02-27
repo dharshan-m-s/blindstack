@@ -9,7 +9,6 @@ import java.util.*;
 
 @RestController
 @RequestMapping("/requests")
-@CrossOrigin(origins = "http://localhost:3000")
 public class LearningRequestController {
 
     @Autowired
